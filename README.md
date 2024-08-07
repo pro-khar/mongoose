@@ -1,7 +1,3 @@
-# Simple express demo
+Start from: 31:25
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
-
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
-
-Check out the [express documentation](https://expressjs.com/) for more information.
+https://youtu.be/VbGl3msgce8?si=XM6Iw0Mto2_34Df-&t=1885
